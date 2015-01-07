@@ -4,7 +4,7 @@
  * Artur Moczulski <artur.moczulski@gmail.com>
  */
 
-namespace CreditCardsCom\Tests;
+namespace CreditCardsCom\Tests\Exercises\Exercise1;
 
 use CreditCardsCom\Exercises\Exercise1\Product;
 
