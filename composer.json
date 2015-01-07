@@ -1,0 +1,11 @@
+{
+    "name": "artur/creditcards.com",
+    "license": "private",
+    "authors": [
+        {
+            "name": "Artur Moczulski",
+            "email": "artur.moczulski@gmail.com"
+        }
+    ],
+    "require": {}
+}
