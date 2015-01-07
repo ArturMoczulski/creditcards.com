@@ -44,6 +44,7 @@ Table Name - salaries
 +------------+--------------+------+
 ```
   a. Write a query that shows the 4th highest paid employee’s name and salary:
+  
   b. Using the above table, write a query using a MySQL aggregate function that shows the employee that has the smallest salary:
 
 Use the following tables to answer questions 3 - 5.
